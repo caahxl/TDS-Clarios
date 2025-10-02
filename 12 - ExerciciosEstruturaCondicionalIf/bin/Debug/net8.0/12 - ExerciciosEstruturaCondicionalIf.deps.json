@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "12 - ExerciciosEstruturaCondicionalIf/1.0.0": {
+        "runtime": {
+          "12 - ExerciciosEstruturaCondicionalIf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12 - ExerciciosEstruturaCondicionalIf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

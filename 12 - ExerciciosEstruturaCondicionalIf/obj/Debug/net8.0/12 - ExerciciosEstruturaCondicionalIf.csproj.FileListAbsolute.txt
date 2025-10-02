@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\bin\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.exe
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\bin\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.deps.json
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\bin\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.runtimeconfig.json
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\bin\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.dll
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\bin\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.pdb
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.dll
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\refint\12 - ExerciciosEstruturaCondicionalIf.dll
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.pdb
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\12 - ExerciciosEstruturaCondicionalIf.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\12 - ExerciciosEstruturaCondicionalIf\obj\Debug\net8.0\ref\12 - ExerciciosEstruturaCondicionalIf.dll
