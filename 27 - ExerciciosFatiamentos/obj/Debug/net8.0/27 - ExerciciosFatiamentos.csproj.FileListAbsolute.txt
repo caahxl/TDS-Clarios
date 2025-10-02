@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\bin\Debug\net8.0\27 - ExerciciosFatiamentos.exe
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\bin\Debug\net8.0\27 - ExerciciosFatiamentos.deps.json
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\bin\Debug\net8.0\27 - ExerciciosFatiamentos.runtimeconfig.json
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\bin\Debug\net8.0\27 - ExerciciosFatiamentos.dll
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\bin\Debug\net8.0\27 - ExerciciosFatiamentos.pdb
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.dll
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\refint\27 - ExerciciosFatiamentos.dll
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.pdb
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\27 - ExerciciosFatiamentos.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\27 - ExerciciosFatiamentos\obj\Debug\net8.0\ref\27 - ExerciciosFatiamentos.dll
